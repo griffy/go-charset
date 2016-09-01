@@ -54,6 +54,7 @@ var allAliases = map[string][]string{}
 
 func aliases() map[string][]string {
 	getAliasesOnce.Do(getAliases)
+	return allAliases
 }
 
 func getAliases() {
