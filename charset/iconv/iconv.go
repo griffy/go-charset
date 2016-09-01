@@ -19,7 +19,7 @@ import "C"
 import (
 	"errors"
 	"fmt"
-	"github.com/rogpeppe/go-charset/charset"
+	"github.com/griffy/go-charset/charset"
 	"runtime"
 	"strings"
 	"syscall"

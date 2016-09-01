@@ -4,7 +4,7 @@
 package data
 
 import (
-	"github.com/rogpeppe/go-charset/charset"
+	"github.com/griffy/go-charset/charset"
 	"io"
 	"io/ioutil"
 	"strings"
