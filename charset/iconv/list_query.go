@@ -9,8 +9,6 @@ package iconv
 //#include <string.h>
 //#include <iconv.h>
 //#include <errno.h>
-//iconv_t iconv_open_error = (iconv_t)-1;
-//size_t iconv_error = (size_t)-1;
 //
 //typedef struct nameList nameList;
 //struct nameList {
