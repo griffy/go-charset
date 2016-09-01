@@ -47,7 +47,7 @@ import "C"
 
 import (
 	"sync"
-	"safe"
+	"unsafe"
 )
 
 var getAliasesOnce sync.Once
